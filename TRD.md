@@ -3,8 +3,8 @@
 ## Must have (MVP)
 - Save data
 - Deployed globally: None
-- Payments
-
+- Payments (For donations)
+- 
 ## Nice to have
 - Accounts and login
 - AI inside: In a future update, AI can help shelter volunteers automatically write warm, engaging bios for stray animals based on a few bullet points or match users to pets via a lifestyle quiz.
